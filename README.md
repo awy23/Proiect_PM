@@ -19,10 +19,10 @@ Datele sunt colectate si procesate cu ajutorul unei placi Arduino Uno R3, iar to
 # Hardware design
 
 Lista de piese:
-1	Arduino Uno R3	(Placa principala de control)
-2	Senzor DHT11	(Senzor temperatura si umiditate)
-3	Display LCD 16x2 I2C	(Modul de afisare a valorilor)
-4	Buzzer	(Emitere alerta sonora)
-5	Breadboard	(Platforma pentru conexiuni rapide)
-6	Fire jumper 	(Conectare intre componente)
+-	Arduino Uno R3	(Placa principala de control)
+-	Senzor DHT11	(Senzor temperatura si umiditate)
+-	Display LCD 16x2 I2C	(Modul de afisare a valorilor)
+- Buzzer	(Emitere alerta sonora)
+-	Breadboard	(Platforma pentru conexiuni rapide)
+-	Fire jumper 	(Conectare intre componente)
 
