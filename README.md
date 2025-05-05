@@ -18,6 +18,8 @@ Datele sunt colectate si procesate cu ajutorul unei placi Arduino Uno R3, iar to
 
 # Hardware design
 
+![Schema bloc](schema.png)
+
 Lista de piese:
 -	Arduino Uno R3	(Placa principala de control)
 -	Senzor DHT11	(Senzor temperatura si umiditate)
