@@ -18,6 +18,7 @@ Datele sunt colectate si procesate cu ajutorul unei placi Arduino Uno R3, iar to
 
 # Hardware design
 
+## Schema bloc
 ![Schema bloc](schema.png)
 
 Lista de piese:
