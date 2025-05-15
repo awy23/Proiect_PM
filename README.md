@@ -32,4 +32,4 @@ Datele sunt colectate si procesate cu ajutorul unei placi Arduino Uno R3, iar to
 
 ## Schema Electrica:
 
-!(circuit_image.png)
+![Schema electrica](circuit_image.png)
