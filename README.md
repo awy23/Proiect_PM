@@ -3,6 +3,7 @@
 Vasile Andrei-Alexandru 333CB
 
 # Introducere
+
 Proiectul consta intr-o statie meteo care masoara temperatura si umiditatea mediului inconjurator, afisand valorile pe un display LCD si generand alerte sonore printr-un buzzer in functie de pragurile de temperatura.
 
 Scopul proiectului este de a crea un sistem simplu si eficient de monitorizare ambientala, util in spatii inchise sau exterioare, care poate avertiza utilizatorul atunci cand conditiile depasesc anumite limite, fara a necesita supraveghere permanenta.
@@ -18,10 +19,10 @@ Datele sunt colectate si procesate cu ajutorul unei placi Arduino Uno R3, iar to
 
 # Hardware design
 
-## Schema bloc
+## Schema bloc:
 ![Schema bloc](schema.png)
 
-Lista de piese:
+## Lista de piese:
 -	Arduino Uno R3	(Placa principala de control)
 -	Senzor DHT11	(Senzor temperatura si umiditate)
 -	Display LCD 16x2 I2C	(Modul de afisare a valorilor)
@@ -29,3 +30,6 @@ Lista de piese:
 -	Breadboard	(Platforma pentru conexiuni rapide)
 -	Fire jumper 	(Conectare intre componente)
 
+## Schema Electrica:
+
+!(circuit_image.png)
